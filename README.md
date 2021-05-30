@@ -1,6 +1,8 @@
 # Object-Tracking-Image-Recognition-with-Python-OpenCV
 Object Tracking using  OpenCV, Python
 
+YOUTUBE: https://www.youtube.com/watch?v=UcJCYKdf6GM
+
 As a part of the Senior Mechanical Engineering Final Project, we were responsible for developing a hunter drone platform that is able to track down malicious drones, and neutralize the threat by shooting a net-gun. This project was sponsored by Meteksan SAVUNMA. 
 
 In this repo, you can find the python codes for:
